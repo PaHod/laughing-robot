@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="module1" />
+        <module name="PaHod_proff17" />
       </profile>
     </annotationProcessing>
   </component>
