@@ -4,5 +4,6 @@
 public class Qsadfg {
     public static void main(String[] args) {
         System.out.println("dfbgksdfgns");
+        System.out.println("Bobruisk forever !");
     }
 }
