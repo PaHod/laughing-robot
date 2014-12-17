@@ -23,7 +23,7 @@ public class Okoshechko extends JFrame{
         mainPanel.add(outputField, BorderLayout.CENTER);
 
 
-        setTitle("Okoshecko");
+        setTitle("Counter frame");
         setBounds(100, 100, 300, 100);
 
         add(mainPanel);
