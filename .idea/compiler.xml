@@ -24,8 +24,8 @@
         <processorPath useClasspath="true" />
         <module name="module1" />
         <module name="PaHod_proff17" />
+        <module name="qwe" />
       </profile>
     </annotationProcessing>
   </component>
 </project>
-

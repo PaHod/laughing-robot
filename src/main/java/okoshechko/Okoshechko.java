@@ -1,9 +1,10 @@
 package okoshechko;
 
+
 import javax.swing.*;
 import java.awt.*;
 
-public class Okoshechko extends JFrame{
+public class Okoshechko extends JFrame {
 
     private StartBtn startBtn;
     private StopBtn stopBtn;

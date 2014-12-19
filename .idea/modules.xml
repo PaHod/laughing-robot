@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
       <module fileurl="file://$PROJECT_DIR$/laughing-robot.iml" filepath="$PROJECT_DIR$/laughing-robot.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qwe/qwe.iml" filepath="$PROJECT_DIR$/qwe/qwe.iml" />
     </modules>
   </component>
 </project>
-
