@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PaHod_web:war">
+    <output-path>$PROJECT_DIR$/PaHod_web/target</output-path>
+    <root id="archive" name="PaHod_web.war">
+      <element id="artifact" artifact-name="PaHod_web:war exploded" />
+    </root>
+  </artifact>
+</component>

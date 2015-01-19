@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PaHod_web:war exploded">
+    <output-path>$PROJECT_DIR$/PaHod_web/target/PaHod_web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PaHod_web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:\IdeaProjects\laughing-robot\PaHod_web\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="PaHod_web/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstWeb/FirstWeb.iml" filepath="$PROJECT_DIR$/FirstWeb/FirstWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaHod_web/PaHod_web.iml" filepath="$PROJECT_DIR$/PaHod_web/PaHod_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/laughing-robot.iml" filepath="$PROJECT_DIR$/laughing-robot.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
