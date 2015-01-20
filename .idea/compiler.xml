@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="EMC_web" />
         <module name="FirstWeb" />
-        <module name="module1" />
         <module name="PaHod_proff17" />
         <module name="PaHod_web" />
         <module name="qwe" />
+        <module name="taxi_group2" />
       </profile>
     </annotationProcessing>
   </component>

@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>FirstWeb</artifactId>
     <packaging>war</packaging>
-    <name>FirstWeb Maven Webapp</name>
+    <name>FirstWeb</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
@@ -16,6 +16,11 @@
             <artifactId>junit</artifactId>
             <version>3.8.1</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mortbay.jetty</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5-20081211</version>
         </dependency>
     </dependencies>
     <build>

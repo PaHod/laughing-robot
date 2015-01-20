@@ -4,8 +4,9 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/EMC_web" />
     <file type="web" url="file://$PROJECT_DIR$/FirstWeb" />
-    <file type="web" url="file://$PROJECT_DIR$/PaHod_web" />
+    <file type="web" url="file://$PROJECT_DIR$/taxi_group2" />
   </component>
   <component name="IdProvider" IDEtalkID="6D5F0F3A9C9D0C899492278A28BF99F2" />
   <component name="MavenProjectsManager">
@@ -13,6 +14,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/module1/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
