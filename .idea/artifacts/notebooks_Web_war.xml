@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="notebooks_Web:war">
+    <output-path>$PROJECT_DIR$/notebooks_Web/target</output-path>
+    <root id="archive" name="notebooks_Web.war">
+      <element id="artifact" artifact-name="notebooks_Web:war exploded" />
+    </root>
+  </artifact>
+</component>

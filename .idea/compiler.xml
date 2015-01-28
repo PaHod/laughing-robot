@@ -22,13 +22,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="CalcJavaFX" />
         <module name="EMC_web" />
         <module name="FirstWeb" />
+        <module name="notebooks_App" />
+        <module name="notebooks_Web" />
         <module name="PaHod_proff17" />
         <module name="PaHod_web" />
         <module name="qwe" />
         <module name="taxi_group2" />
+        <module name="tetris" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tetris" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

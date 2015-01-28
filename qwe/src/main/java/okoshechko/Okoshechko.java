@@ -12,6 +12,8 @@ public class Okoshechko extends JFrame {
 
     private JPanel mainPanel;
 
+
+
     public Okoshechko() {
         super();
         startBtn = new StartBtn();

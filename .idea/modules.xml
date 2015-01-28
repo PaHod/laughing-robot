@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcJavaFX/CalcJavaFX.iml" filepath="$PROJECT_DIR$/CalcJavaFX/CalcJavaFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/EMC_web/EMC_web.iml" filepath="$PROJECT_DIR$/EMC_web/EMC_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstWeb/FirstWeb.iml" filepath="$PROJECT_DIR$/FirstWeb/FirstWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" filepath="$PROJECT_DIR$/PaHod_proff17/PaHod_proff17.iml" />
       <module fileurl="file://$PROJECT_DIR$/laughing-robot.iml" filepath="$PROJECT_DIR$/laughing-robot.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notebooks_App/notebooks_App.iml" filepath="$PROJECT_DIR$/notebooks_App/notebooks_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notebooks_Web/notebooks_Web.iml" filepath="$PROJECT_DIR$/notebooks_Web/notebooks_Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/qwe/qwe.iml" filepath="$PROJECT_DIR$/qwe/qwe.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxi_group2/taxi_group2.iml" filepath="$PROJECT_DIR$/taxi_group2/taxi_group2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tetris/tetris.iml" filepath="$PROJECT_DIR$/../tetris/tetris.iml" />
     </modules>
   </component>
 </project>

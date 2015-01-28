@@ -6,6 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/EMC_web" />
     <file type="web" url="file://$PROJECT_DIR$/FirstWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/notebooks_Web" />
     <file type="web" url="file://$PROJECT_DIR$/taxi_group2" />
   </component>
   <component name="IdProvider" IDEtalkID="6D5F0F3A9C9D0C899492278A28BF99F2" />
@@ -13,6 +14,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tetris/pom.xml" />
+        <option value="$PROJECT_DIR$/EMC_web/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
